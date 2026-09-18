@@ -1,0 +1,17 @@
+@page "/"
+
+<!-- Sección Hero Original -->
+<section class="hero">
+    <div class="hero-badge">
+        <span class="hero-badge-dot"></span>
+        Tecnología Additive & Woodcraft
+    </div>
+    <h1>Tu estilo, tu diseño,<br>tu tabla.</h1>
+    <p>Elevamos el Fingerboard con tecnología de resina 3D de alta precisión y decks artesanales de madera seleccionada.</p>
+    <a href="catalogo.html" class="btn-cta">Explorar Catálogo Completo</a>
+</section>
+
+<!-- SECCIÓN INTERACTIVA DE C# / BLAZOR -->
+<section id="configurador-csharp" class="feature-section">
+    <Configurador />
+</section>
